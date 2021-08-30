@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AtvdGersonDiagram.Porta">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAIQQFACAABAAAAARAAAAEQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Porta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtvdGersonDiagram.PortaQuarto" Collapsed="true">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PortaQuarto.cs</FileName>
+      <NewMemberFileName>PortaCozinha.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtvdGersonDiagram.PortaCozinha">
+    <Position X="7.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PortaCozinha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtvdGersonDiagram.Sala" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAIAAAACAAAAgAAAAIAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Sala.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtvdGersonDiagram.Quarto" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAEAIAABACA=</HashCode>
+      <FileName>Quarto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtvdGersonDiagram.Cozinha" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAABAAAgAAAAIAAAAAAAAAAEAAAABAAA=</HashCode>
+      <FileName>Cozinha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="AtvdGersonDiagram.PortaDaSala" Collapsed="true">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PortaSala.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

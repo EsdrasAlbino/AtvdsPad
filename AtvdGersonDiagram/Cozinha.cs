@@ -10,10 +10,6 @@ namespace AtvdGersonDiagram
         private bool americana;
         private float metragemQuadrada;
 
-        public Cozinha()
-        {
-        }
-
         public Cozinha(PortaCozinha porta, bool americana, float metragemQuadrada)
         {
             this.porta = porta;

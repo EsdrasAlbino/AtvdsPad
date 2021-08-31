@@ -10,19 +10,20 @@ namespace AtvdGersonDiagram
         private float altura;
         private double peso;
 
-        public string Cor { get; set; }
-        public float Largura { get; set; }
-        public float Altura { get; set; }
-        public double Peso { get; set; }
-        public Sala Sala { get; set; }
+        public Sala Sala { get => sala; set => sala = value; }
+        public string Cor { get => cor; set => cor = value; }
+        public float Largura { get => largura; set => largura = value; }
+        public float Altura { get => altura; set => altura = value; }
+        public double Peso { get => peso; set => peso = value; }
 
         public Porta(string cor, float largura, float altura, double peso)
         {
-            this.cor = cor;
-            this.largura = largura;
-            this.altura = altura;
-            this.peso = peso;
+            this.Cor = cor;
+            this.Largura = largura;
+            this.Altura = altura;
+            this.Peso = peso;
         }
+
 
         public void abrir()
         {

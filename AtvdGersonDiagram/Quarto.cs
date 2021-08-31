@@ -12,9 +12,9 @@ namespace AtvdGersonDiagram
 
         public Quarto(PortaQuarto porta, bool banheiro, float metragemQuadrada)
         {
-            this.porta = porta;
-            this.banheiro = banheiro;
-            this.metragemQuadrada = metragemQuadrada;
+            this.Porta = porta;
+            this.Banheiro = banheiro;
+            this.MetragemQuadrada = metragemQuadrada;
         }
 
         public PortaQuarto Porta { get => porta; set => porta = value; }
